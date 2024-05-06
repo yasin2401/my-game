@@ -27,7 +27,7 @@ for( var i = 0; i<emojis.length; i++) {
                     length){
                         alert('win')
                     }
-
+                    
 
                 } else {
                     document.querySelectorAll('.boxOpen')[1].classList.remove
