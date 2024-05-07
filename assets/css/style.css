@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #0a3c2f;
+    background: #023021;
 }
 .container {
     border-radius: 7px;
@@ -19,7 +19,7 @@ body {
     align-items: center;
     flex-direction: column;
     gap: 30px;
-    background: #2b6354;
+    background: #264361;
     padding: 40px 60px;    
 }
 .container h2 {
@@ -30,7 +30,7 @@ body {
 }
 .reset {
     padding: 15px 20px;
-    color: #0b201b;
+    color: #020e12;
     background: #fff;
     border: none;
     font-size: 0.8em;
@@ -42,7 +42,7 @@ body {
 }
 .reset:focus {
    color: #fff;
-   background: #267c65; 
+   background: #8cc2b4; 
 }
 .game {
     width: 300px;
@@ -74,7 +74,7 @@ body {
     content: '';
     position: absolute;
     inset: 0;
-    background: #209d7b;
+    background: #6aa1d1;
     transition: 0.25s;
     transform: rotateY(0deg);
     backface-visibility: hidden;
